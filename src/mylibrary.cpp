@@ -8,4 +8,6 @@ void funcion_libreria()
 	std::cout << "cambio hecho desde la rama Feature_EVC_MonoChannel" << std::endl;
 
 	std::cout << "cambio hecho sin hacer checkout Feature_EVC_MonoChannel" << std::endl;
+
+	std::cout << "cambio hecho en el submodulo pero ya en la rama Feature_EVC_MonoChannel" << std::endl;
 }
